@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "goalpost-app/Controller/FinishGoalVC.swift"
+            timestampString = "551465438.7334239"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "FinishGoalVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "goalpost_app.FinishGoalVC.goalType.getter : Swift.ImplicitlyUnwrappedOptional&lt;goalpost_app.GoalType&gt;"
+                  moduleName = "goalpost-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DuyLe/Projects/goalpost-app/goalpost-app/Controller/FinishGoalVC.swift"
+                  timestampString = "551403222.926807"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "goalpost_app.FinishGoalVC.goalType.setter : Swift.ImplicitlyUnwrappedOptional&lt;goalpost_app.GoalType&gt;"
+                  moduleName = "goalpost-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DuyLe/Projects/goalpost-app/goalpost-app/Controller/FinishGoalVC.swift"
+                  timestampString = "551403222.9322309"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "goalpost_app.FinishGoalVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; goalpost_app.FinishGoalVC"
+                  moduleName = "goalpost-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DuyLe/Projects/goalpost-app/goalpost-app/Controller/FinishGoalVC.swift"
+                  timestampString = "551403222.934031"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "603">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "goalpost_app.FinishGoalVC.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;goalpost_app.FinishGoalVC&gt;"
+                  moduleName = "goalpost-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DuyLe/Projects/goalpost-app/goalpost-app/Controller/FinishGoalVC.swift"
+                  timestampString = "551403222.936295"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
